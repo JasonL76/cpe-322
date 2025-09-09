@@ -9,6 +9,8 @@
 - Second
 - Third
 ` code `
---- horizontal rule
+
+---
+
 [link](youtube.com)
 ![image](pfp.png)

@@ -13,5 +13,5 @@
 
 ---
 
-[link](youtube.com)
+[link](https://www.youtube.com)
 ![image](pfp.png)
